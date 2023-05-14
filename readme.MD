@@ -61,3 +61,7 @@ struct turma {
 
 
 ```
+
+## Folder Structure
+
+![folder](https://github.com/varlson/Aluno/assets/54964917/b261d8e1-2544-448a-ab3c-38bd84574953)
